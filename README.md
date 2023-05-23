@@ -12,12 +12,12 @@
               -----/ Version 1.99 -- 28/03/2022 \------
 
 
-	  To run it you will need: 
-	  (1) Create a folder "C:\data_gfs"
-    (2) Place all files in the folder created in step 1
-	  (3) run "Easy_GFS_Download_v1.99.cmd"
-    (4) When the program finish you will see GFS subsets files every 3 hours and
-        one gfst.grib2 with all times. (See the picture)
+ To run it you will need: 
+  (1) Create a folder "C:\data_gfs"
+  (2) Place all files in the folder created in step 1
+  (3) run "Easy_GFS_Download_v1.99.cmd"
+  (4) When the program finish you will see GFS subsets files every 3 hours and
+     one gfst.grib2 with all times. (See the picture)
 
 ![folder](https://github.com/joseamidesfigueroa/Easy-GFS-Download/assets/18471059/c3b6d16d-75b0-4e64-85f6-bdce98410438)
 
