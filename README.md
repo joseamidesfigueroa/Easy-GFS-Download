@@ -7,7 +7,6 @@
 	      by JUAN JOSE AMIDES FIGUEROA, ANGELO PASCUALETTI
                      JOSE GALVEZ AND MIKE DAVISON
 
-
 	             Juan Jose Amides Figueroa. El Salvador 
               -----/ Version 1.99 -- 28/03/2022 \------
 
